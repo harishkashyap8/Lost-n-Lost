@@ -1,2 +1,4 @@
-# Lost-n-Lost
+# WIP!
+
+## Lost-n-Lost
 Theme - rEFInd theme
